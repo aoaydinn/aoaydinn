@@ -4,7 +4,7 @@
   
   # Hi 👋, I'm Abdurrahman
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Developer+%26+Cyber+Security+Enthusiast;Full-Stack+Developer;Simplifying+Lives+with+AI;Aspiring+Ethical+Hacker)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=dDeveloper+%26+Cyber+Security+Enthusiast;Full-Stack+Developer;Simplifying+Lives+with+AI;Aspiring+Ethical+Hacker)](https://git.io/typing-svg)
   
   <p>
     <img src="https://img.shields.io/badge/Kahramanmaraş%2C%20Türkiye-From%20Here-red?style=for-the-badge" alt="Location" />
