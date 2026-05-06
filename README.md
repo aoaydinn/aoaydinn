@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Profile Views]<img src="https://komarev.com/ghpvc/?username=aoaydinn&style=for-the-badge" alt="Profile Views" />
+  ![Profile Views](<img src="https://komarev.com/ghpvc/?username=aoaydinn&style=for-the-badge" alt="Profile Views" />)
   
   # Hi 👋, I'm Abdurrahman
   
