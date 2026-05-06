@@ -1,6 +1,6 @@
 <div align="center">
   
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aoaydinn.aoaydinn&style=for-the-badge&color=brightgreen)
+[![A. Onur Aydın profile views](https://u8views.com/api/v1/github/profiles/272920881/views/day-week-month-total-count.svg)](https://u8views.com/github/aoaydinn)
   
   # Hi 👋, I'm Abdurrahman
   
