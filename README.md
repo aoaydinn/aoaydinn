@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Profile Views](<img src="https://komarev.com/ghpvc/?username=aoaydinn&style=for-the-badge" alt="Profile Views" />)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aoaydinn.aoaydinn&style=for-the-badge&color=brightgreen)
   
   # Hi 👋, I'm Abdurrahman
   
@@ -107,22 +107,58 @@
 
 ### 📊 GitHub Analytics
 
+<!--   GitHub Stats (ana kart)   -->
 <p align="center">
   <a href="https://github.com/aoaydinn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aoaydinn&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aoaydinn&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
+    <picture>
+      <source 
+        srcset="https://gh-stats.com/api?username=aoaydinn&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source 
+        srcset="https://gh-stats.com/api?username=aoaydinn&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      />
+      <img height="180em" src="https://gh-stats.com/api?username=aoaydinn&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+    </picture>
   </a>
 </p>
 
+<!--   Dil Dağılımı (repo başına + en çok commit)   -->
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aoaydinn&theme=algolia" alt="Repo Başına Diller" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aoaydinn&theme=algolia" alt="En Çok Commit Yapılan Dil" />
 </p>
 
+<!--   Katkı Serisi   -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=algolia&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
----
+<!--   Başarılar   -->
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=algolia&no-frame=true&column=7&margin-w=15&bg_color=0D1117" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=flat&no-frame=true&column=7&margin-w=15" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  </picture>
+</p>
 
 ### ☕ Support Me
 
