@@ -115,11 +115,11 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aoaydin&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aoaydin&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
