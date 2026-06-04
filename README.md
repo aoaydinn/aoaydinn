@@ -156,7 +156,7 @@
       srcset="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=flat&no-frame=true&column=7&margin-w=15" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://github-profile-trophy.vercel.app/?username=aoaydinn&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=aoaydinn&theme=algolia&no-frame=true&column=7&margin-w=15" alt="Trophies" />
   </picture>
 </p>
 
