@@ -141,7 +141,7 @@
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=default&hide_border=true" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aoaydinn&theme=algolia&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=aoaydinn&theme=algolia&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
   </picture>
 </p>
 
